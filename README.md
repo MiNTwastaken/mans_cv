@@ -15,3 +15,13 @@ Pašreiz mācos uz Vidējo - Profesionālo izglītību "Rīgas Valsts Tehnikums 
 2017-2020 "Rīgas 47. vidusskola"
 
 2011-2020 "Ziepniekkalna Sākumskola"
+
+## Sasniegumi
+
+Piedalījies profesionālo cīņu sacensībās. Iegūtas 3 zelta medaļas ar 1 kausu.
+
+Mācījies programmēšanas kursos 2 gadus c++ valodā "Pirmā programmēšanas skola".
+
+Piedalījies kartinga sacensībās. Ieguvu 3. vietu.
+
+Zinu, kā spēlēt šahu.
