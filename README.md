@@ -25,3 +25,13 @@ Mācījies programmēšanas kursos 2 gadus c++ valodā "Pirmā programmēšanas 
 Piedalījies kartinga sacensībās. Ieguvu 3. vietu.
 
 Zinu, kā spēlēt šahu.
+
+## Hobiji
+
+Mani hobiji:
+    1. Mans hobijs ir mācīties Programmēšanas valodu "Python"
+    2. Mans otrais hobijs ir Spēlēt datorspēles un runāt ar draugiem caur Voip.
+    3. Mans trešais hobijs ir spēlēt ģitāru.
+
+
+
