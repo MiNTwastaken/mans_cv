@@ -33,5 +33,16 @@ Mani hobiji:
     2. Mans otrais hobijs ir Spēlēt datorspēles un runāt ar draugiem caur Voip.
     3. Mans trešais hobijs ir spēlēt ģitāru.
 
+## Pieredze programmēšanā
+
+Man ir 2 gadu pieredze c++ valodas programmēšanā. Iestāde "1. Programmēšanas skola"
+
+Ir zināšanas par basic, cikliem, loopiem, int, string, char, vector, u.c.
+
+Varu izlasīt kodu bez lielām problēmām.
+
+Šobrīd mācos izglītībā "Rīgas Valsts Tehnikums Profesionālās izglītības kompotences centrs" , programmēšanu Python valodā.
+
+
 
 
